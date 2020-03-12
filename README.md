@@ -1,2 +1,2 @@
 # LFA
-Exercício
+Exercício - Usando Python
